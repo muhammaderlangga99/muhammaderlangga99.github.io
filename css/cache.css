@@ -1,0 +1,81 @@
+.dark {
+    background: #1E2023 !important;
+    transition: .3s ease-in;
+}
+
+.hide {
+    display: none !important;
+}
+
+.appear {
+    display: block !important;
+}
+
+.shadow-nav {
+    box-shadow: 0 2px 7px rgba(0, 0, 0, .1) !important;
+}
+
+.glases {
+    backdrop-filter: blur(5px) saturate(180%);
+    -webkit-backdrop-filter: blur(5px) saturate(180%);
+    background: rgba(30,32,35,.50) !important;
+
+}
+
+.buble-white {
+    background: rgba(255, 255, 255, 0.46);
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    backdrop-filter: blur(5.9px);
+    -webkit-backdrop-filter: blur(5.9px);
+}
+
+.navbar-appear {
+    transform: translateY(0%);
+}
+
+.bg-putih {
+    background: #eaeaea !important;
+}
+
+.shadow-white {
+    box-shadow: -2px -2px 2px rgba(255, 255, 255, .9),
+                2px 2px 3px rgba(0, 0, 0, .3) !important;
+}
+
+.shadow-white:active {
+    box-shadow: 0 0 5px rgba(0, 0, 0, .3) inset !important;
+}
+
+.github-dark {
+    text-shadow: 0px 0px 5px rgba(255, 255, 255, .5) !important;
+}
+
+.github-dark:hover {
+    text-shadow: 0 5px 6px rgba(255, 255, 255, .4) !important;
+}
+
+.polka-dark {
+    background-color: #1E2023 !important;
+    background-image: radial-gradient(#fff 1px, #1E2023 1px) !important;
+}
+
+.text-white-border{
+    -webkit-text-stroke: 1px #fff !important;
+}
+
+.white-card {
+    box-shadow: rgba(255, 255, 255, 0.05) 0px 0px 0px 1px;
+}
+
+.text-danger {
+    color: #c60000 !important;
+}
+
+.form-dark {
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.form-dark:hover {
+    box-shadow: rgba(0, 0, 0, 0.3) -4px 9px 25px -6px;
+}

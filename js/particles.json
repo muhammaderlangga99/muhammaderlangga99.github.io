@@ -1,0 +1,29 @@
+{
+
+    "particles": {
+
+        "number": {
+            "value": 40,
+            "density.value_area": 3287
+        },
+        
+        "size": {
+            "value": 1
+        },
+
+        "line_linked": {
+            "enable": false,
+            "distance": 1168
+        },
+
+        "move":{
+            "speed": 2.4
+        },
+
+        "opacity": {
+            "value": 0.58
+        }
+       
+    }
+
+}

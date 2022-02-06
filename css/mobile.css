@@ -1,0 +1,50 @@
+@media (max-width: 767.98px) {
+  /* explanation */
+  .explanation {
+    display: none;
+  }
+ 
+  /* about */
+  .about {
+    height: 60vh;
+    margin-top: 100px;
+  }
+
+  .point {
+    display: none;
+  }
+
+  /* aboutme */
+  .studied .col-md-4 {
+    display: none !important;
+  }
+
+  .studied ul li {
+    font-size: 0.7em;
+  }
+
+  /* introduction */
+  .project h1 {
+    margin-top: -40px;
+  }
+
+  /* skill */
+  .tools {
+    margin-top: 150px;
+  }
+
+  .tools h3.skills::after {
+    width: 60px;
+    margin-left: 10px;
+  }
+
+  /* contact */
+  #contact p {
+    font-size: .7em;
+  }
+
+  /* form */
+  .form:hover {
+    box-shadow: rgba(0, 0, 0, 0.3) -4px 9px 25px -6px !important;
+  }
+}
